@@ -9,11 +9,23 @@
 ...means that certain parcel of real property described in Exhibit "A" attached hereto and incorporated herein by reference, together with such additions thereto as may hereafter be brought within the jurisdiction of the Association.
 
 ## Section 4 - Common Area
+...means all real property owned by the Association for the common use, benefit, welfare, and enjoyment of the Owners. The Common Area to be owned and maintained by the Association shall be designated by the Developer.
+
 ## Section 5 - Lot
+...means any plot of land shown upon any recorded subdivision map or plat of the Properties, together with all improvements thereon, with the exception of the Common Area.
+
 ## Section 6 - Developer
+...means SHAMROCK DEVELOPMENT CORPORATION OF LAKE COUNTY, INC., a Florida corporation, and such of its successors and assigns as shall acqUire an interest in more than one undeveloped lot from SHAMROCK DEVELOPMENT CORPORATION OF LAKE COUNTY, INC., .f or the purpose of development.
+
 ## Section 7 - Recorded
+...means filed for record in the public Records of Lake County, Florida.
+
 ## Section 8 - Person
+...means any natural person' or artificial legal entity.
+
 ## Section 9 - Interpretation
+Unless the context otherwise requires, the use herin of the singular shall include the plural and vice versa; the use of one gender shall include all genders; and the use of the term "including" shall mean "including without limitation". This Declaration shall be liberally construed in favor of the party seeking to enforce the provisions hereof to effactuate the purpose of protecting and enhancing the value, marketability, and desirability of the Properties by providing a common plan for the development and preservation thereof. The headings used herein are for indexing purposes only and shall not be used as a means of interpreting or construing the substantive provisions hereof.
+
 # Article 2 - Property Rights
 ## Section 1 - Owners' Easements of Enjoyment
 ### (a) - Regular and Special Assessments
