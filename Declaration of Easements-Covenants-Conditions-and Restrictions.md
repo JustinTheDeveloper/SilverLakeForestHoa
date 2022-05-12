@@ -40,7 +40,15 @@ The right of the Association to dedicate or transfer all or any part of tha Comm
 Any Owner may delegate, in accordance with the Bylaws of the Association, his right to the Common Area and facilities thereon to the members of his family, his tenants, or contract purchasers, provided the foregoing actually reside upon such Owner's Lot.
 # Article 3 - Membership and Voting Rights
 ## Section 1 - Membership
+Every Owner of a Lot which is subject to assessment shall be a member of the Association. If title to a Lot is held by more than one person, each of such persons shall be members. An Owner of mOoe than one Lot shall be entitled to one membership for each Lot owned by him. Each such membership shall be appurtenant to the Lot upon which it is based and shall be transferred automatically by conveyance of that Lot. No person or entity other than an Owner or Developer may be a member of the Association, and a membership in the Association may not be transferred except in connection with the transfer of title to a Lot; provided, however, ths foregoing shall not be construed to prohibit the assignment of membership and voting rights by an Owner who is a contract seller to his vendee in possession.
 ## Section 2 - Voting
+The Association ahall have two (2) classes of voting membership:
+### (a) - Class A
+Class A members shall be all Owners and shall be entitled to one (1) vote for each Lot owned provided however, so long as there is Class B membership. Developer shall not be a Class A member. When more than one person holds an interest in any Lot, all such persons shall be members. The vote for such Lot shall be exercised as they among themselves determine; but in no event shall more than one (1) vote be cast with respect to any Lot. There shall be no split vote.
+### (b) - Class B
+The Class 8 member shall be the Developer and shall be entitled to three (3) votes for each Lot owned. The Class B membership shall cease and be converted to Class A membership on the happening of either of the following events, whichever occurs earlier:
+#### (1) when the total votea outstanding in the Class A membership equal the total votes outstanding in the Class B membership, or
+#### (2) on January 1, 1999
 # Article 4 - Covenant for Maintenance Assessments
 ## Section 1 - Creation of the Lien and Personal Obligation of Assessments
 ## Section 2 - Purpose of Assessments
