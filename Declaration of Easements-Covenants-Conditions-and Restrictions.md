@@ -1,4 +1,4 @@
-# Definitions and Construction
+# Article 1 - Definitions and Construction
 ## Section 1 - Association
 ...means SILVER LAKE FOREST HOME-OWNERS' ASSOCIATION, INC., a corporation not for profit organized pursuant to Chapter 617, Florida Statutes, its successors and assigns.
 
@@ -27,11 +27,17 @@
 Unless the context otherwise requires, the use herin of the singular shall include the plural and vice versa; the use of one gender shall include all genders; and the use of the term "including" shall mean "including without limitation". This Declaration shall be liberally construed in favor of the party seeking to enforce the provisions hereof to effactuate the purpose of protecting and enhancing the value, marketability, and desirability of the Properties by providing a common plan for the development and preservation thereof. The headings used herein are for indexing purposes only and shall not be used as a means of interpreting or construing the substantive provisions hereof.
 
 # Article 2 - Property Rights
+
 ## Section 1 - Owners' Easements of Enjoyment
+Every Owner shall have a non-exclusive right and easement of enjoyment in and to the Common Area which shall be appurtenant to and shall paas with the title to every Lot, subject to the following provisions:
 ### (a) - Regular and Special Assessments
+The right of the Association to make regular and special assessments and other fees for the construction, beautification, and maintenance of the Common Area.
 ### (b) - Suspension of Owner Voting Rights
+The right of the Association to suspend the voting rights of an Owner for any period during which any assessment against his Lot remains unpaid, and for a period not to exceed sixty (60) days for any infraction of its published rules and regulations.
 ### (c) - Dedication or Transfer of Common Area to Public
+The right of the Association to dedicate or transfer all or any part of tha Common Area to any public agency, authority, or utility for such purpose and subject to such conditions as may be agreed to by the members. No such dedication or transfer shall be effective unless an instrument signed by two-thirds (2(3) of Class A members and the unanimous vote of Class B members, so long as there remains Class B ownership, agreeing to such dedication or transfer has been recorded.
 ## Section 2 - Delegation of Use
+Any Owner may delegate, in accordance with the Bylaws of the Association, his right to the Common Area and facilities thereon to the members of his family, his tenants, or contract purchasers, provided the foregoing actually reside upon such Owner's Lot.
 # Article 3 - Membership and Voting Rights
 ## Section 1 - Membership
 ## Section 2 - Voting
